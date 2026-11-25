@@ -28,3 +28,15 @@ button {
     color: white;
     cursor: pointer;
 }
+
+/* Dark Mode */
+
+body.dark-mode {
+    background: #171717;
+    color: #ffffff;
+}
+
+body.dark-mode button {
+    background: #ffffff;
+    color: #171717;
+}
